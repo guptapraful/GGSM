@@ -1,3 +1,3 @@
 # GGSM
 
-Generalized Gaussian Scale Mixture Model with NR-IQA as an application.
+Generalized Gaussian Scale Mixture Model with No Reference Image Quality Assessment as an application.
